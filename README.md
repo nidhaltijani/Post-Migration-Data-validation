@@ -18,6 +18,8 @@ The Alteryx macro performs the following steps:
    - Applies field mapping (to resolve naming differences).
    - Performs transformations (transpose, formulas, and data alignment).
    - Validates data **for each key** between ECC and S/4.
+     ![Alteryx Workflow](Capture d'écran 2025-08-24 223554.png)
+
 
 3. **Outputs**
    - **KO Fields ECC** → Fields present in ECC but not matching in S/4.
@@ -28,6 +30,7 @@ The Alteryx macro performs the following steps:
 4. **Visualization**
    - A **Power BI report** provides clear insights for business users.
    - Highlights mismatches, missing records, and validation results.
+     **I could not share the PBI report for privacy concerns**
 
 ---
 
@@ -50,6 +53,7 @@ The Alteryx macro performs the following steps:
 - **Alteryx Macro**: Handles data preparation, mapping, and validation logic.
 - **Power BI Report**: Presents results in a user-friendly, interactive manner.
 - **Mapping File (CSV/Excel)**: Defines ECC–S/4 field name relationships.
+  ![Workflow Diagram](Capture d'écran 2025-08-24 223810.png)
 
 ---
 
