@@ -18,7 +18,7 @@ The Alteryx macro performs the following steps:
    - Applies field mapping (to resolve naming differences).
    - Performs transformations (transpose, formulas, and data alignment).
    - Validates data **for each key** between ECC and S/4.
-   ![Alt Text](Capture d'écran 2025-08-24 223554.png)
+   ![Alt Text](Project_Architecture.png)
 
 3. **Outputs**
    - **KO Fields ECC** → Fields present in ECC but not matching in S/4.
