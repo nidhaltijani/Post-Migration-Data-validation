@@ -5,6 +5,8 @@ This project provides an automated solution to validate data consistency between
 
 The solution is built with **Alteryx** (as a reusable macro) and visualized through a **Power BI** dashboard. It automates the traditionally manual validation process, reducing effort and improving accuracy.
 
+![Alt Text](Project_Architecture.png)
+
 ---
 
 ## ⚙️ How It Works
@@ -18,7 +20,7 @@ The Alteryx macro performs the following steps:
    - Applies field mapping (to resolve naming differences).
    - Performs transformations (transpose, formulas, and data alignment).
    - Validates data **for each key** between ECC and S/4.
-   ![Alt Text](Project_Architecture.png)
+   ![Alt Text](Alteryx_Workflow.png)
 
 3. **Outputs**
    - **KO Fields ECC** → Fields present in ECC but not matching in S/4.
