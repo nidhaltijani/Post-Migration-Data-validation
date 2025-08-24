@@ -31,7 +31,7 @@ The Alteryx macro performs the following steps:
 4. **Visualization**
    - A **Power BI report** provides clear insights for business users.
    - Highlights mismatches, missing records, and validation results.
-     **I could not share the PBI report for privacy concerns**
+   - **Unable to share the PBI report for privacy concerns**
 
 ---
 
