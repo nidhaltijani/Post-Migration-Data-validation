@@ -65,18 +65,8 @@ This tool has streamlined SAP post-migration validation by:
 - Saving **hundreds of consulting hours** across large-scale migrations.
 - Providing a **repeatable framework** for data quality checks.
 - Delivering **greater trust and confidence** in SAP migration outcomes.
+- Delivering **a reusable asset** for the business users for next migration waves without the data team intervention.
 
 ---
 
-## ▶️ Getting Started
-1. Prepare your ECC dataset, S/4 dataset, and mapping file.
-2. Run the Alteryx macro with the three inputs.
-3. Review the outputs (KO fields/rows).
-4. Open the Power BI report to visualize validation results.
 
----
-
-## 📜 License
-This project is proprietary. Usage rights are restricted based on organizational guidelines.
-
----
